@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 20000,
+      "id": 1,
+      "title": "Blue eyes white dragon",
+      "thumbnailUrl": "https://i.pinimg.com/originals/6f/91/ca/6f91cae78689956ee3b8fffc4e0feade.png"
+    },
+    {
+      "precio": 30000, 
+      "id": 2,
+      "title": "Yubel Terror incarnate",
+      "thumbnailUrl": "https://i.pinimg.com/originals/3a/88/e7/3a88e75483a392d62bf7a428fa3c24c1.png"
+    },
+    {
+      "precio": 70000,
+      "id": 3,
+      "title": "Exodia",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0570/0281/9741/products/8db81888-5775-5fc9-952b-d10c643e50b0_800x.png?v=1622426459"
+    },
+    {
+      "precio": 30000,
+      "id": 4,
+      "title": "Summoned Skull",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0570/0281/9741/products/8119aa73-8cc5-53f4-a645-845e460dc004_800x.png?v=1622426466"
+    },
+    {
+      "precio": 40000,
+      "id": 5,
+      "title": "Change of heart",
+      "thumbnailUrl": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/741175/741175.png"
+    },
+    {
+      "precio": 10000,
+      "id": 6,
+      "title": "Monster Reborn",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0570/0281/9741/products/29189271-db23-5360-bea7-e1f567e880f8_ba4f23c3-a625-4de0-ae68-1a4a280059ce_1024x.png?v=1622432714"
+    }
+  ]
